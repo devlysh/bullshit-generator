@@ -1,0 +1,30 @@
+{
+  "name": "bullshit-generator",
+  "version": "1.0.4",
+  "description": "Command line tool, which reads sentences from file, generates random sentences with all those words and prints it out.",
+  "main": "./lib/bullshit-generator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artem Devlysh",
+  "license": "ISC",
+  "preferGlobal": true,
+  "directories": {
+    "bin": "./bin"
+  },
+  "dependencies": {
+    "optimist": "^0.6.1"
+  },
+  "devDependencies": {},
+  "bin": {
+    "bullshit-generator": "bin/bullshit-generator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlysh/bullshit-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devlysh/bullshit-generator/issues"
+  },
+  "homepage": "https://github.com/devlysh/bullshit-generator#readme"
+}
