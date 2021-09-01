@@ -10,16 +10,17 @@ _Currently is under construction_
 
 ## Usage
 
-`bullshit-generator [OPTION]...` to use it with defalut text file
 
-`bullshit-generator` to use it with defalut text file
+`bullshit-generator` use it with defalut text file
 
-`bullshit-generator --file my-text-file.txt` to use your own text file
+`bullshit-generator [OPTION]...` use it with defalut text file with options
 
-### Flags
+`bullshit-generator --file my-text-file.txt` use your own text file
+
+### Options
 
 ```
--h --help         # To see readme
+-h --help         # See readme
 -s --stats        # Show words statistics for used file
 
 -f --file         # Use own text file
