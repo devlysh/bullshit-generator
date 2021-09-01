@@ -13,7 +13,7 @@
     "bin": "./bin"
   },
   "dependencies": {
-    "optimist": "^0.6.1"
+    "minimist": "^1.2.3"
   },
   "devDependencies": {},
   "bin": {
