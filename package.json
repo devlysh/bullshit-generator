@@ -1,6 +1,6 @@
 {
   "name": "bullshit-generator",
-  "version": "1.1.1",
+  "version": "2.0",
   "description": "Command line tool, which reads sentences from file, generates random sentences with all those words and prints it out.",
   "main": "./lib/bullshit-generator",
   "scripts": {
