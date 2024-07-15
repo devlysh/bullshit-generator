@@ -20,10 +20,9 @@ _Currently is under construction_
 ### Options
 
 ```
--h --help         # See readme
--s --stats        # Show words statistics for used file
+-h --help         To see help
+-s --stats        Show words statistics for used file
+-g --graph        Print graph
 
--f --file         # Use own text file
--m --max          # Maximum clean words between commas or endings
--c --comma        # Chance to set word with comma (1-9)
+-f --file         Use own text file
 ```
